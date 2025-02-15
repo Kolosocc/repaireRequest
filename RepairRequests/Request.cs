@@ -15,14 +15,7 @@ namespace RepairRequests
         Пылесос
     }
 
-    public enum Brand
-    {
-        Samsung,
-        LG,
-        Bosch,
-        Indesit,
-        Philips
-    }
+
 
     public enum RequestStatus
     {
@@ -36,7 +29,6 @@ namespace RepairRequests
         public int RequestId { get; set; }
         public DateTime DateAdded { get; set; }
         public EquipmentType EquipmentType { get; set; }
-        public Brand Brand { get; set; }
         public string Model { get; set; }
         public string ProblemDescription { get; set; }
         public string ClientName { get; set; }

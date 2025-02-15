@@ -13,5 +13,10 @@
     "Login": "3",
     "Password": "3",
     "IsAdmin": false
+  },
+  {
+    "Login": "4",
+    "Password": "4",
+    "IsAdmin": false
   }
 ]

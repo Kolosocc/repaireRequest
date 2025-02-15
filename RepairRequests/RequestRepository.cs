@@ -68,6 +68,7 @@ namespace RepairRequests
                 existingRequest.ProblemDescription = updatedRequest.ProblemDescription;
                 existingRequest.ClientName = updatedRequest.ClientName;
                 existingRequest.PhoneNumber = updatedRequest.PhoneNumber;
+                existingRequest.Status = updatedRequest.Status;
 
                 // Save updated list back to the JSON file
                 SaveRequests(requests);

@@ -1,31 +1,28 @@
 [
   {
     "RequestId": 1,
-    "DateAdded": "2025-02-15T11:10:16.826579+07:00",
-    "EquipmentType": 3,
-    "Brand": 0,
-    "Model": "123",
-    "ProblemDescription": "2223232222",
+    "DateAdded": "2025-02-27T00:00:00",
+    "EquipmentType": 1,
+    "Model": "ww",
+    "ProblemDescription": "ww",
     "ClientName": "1",
-    "PhoneNumber": "123",
-    "Status": 1
+    "PhoneNumber": "wwww",
+    "Status": 0
   },
   {
     "RequestId": 2,
-    "DateAdded": "2025-02-15T00:00:00",
+    "DateAdded": "2025-02-28T00:00:00",
     "EquipmentType": 3,
-    "Brand": 0,
-    "Model": "21",
-    "ProblemDescription": "12",
+    "Model": "21ww",
+    "ProblemDescription": "ww",
     "ClientName": "2",
-    "PhoneNumber": "12",
-    "Status": 0
+    "PhoneNumber": "www",
+    "Status": 1
   },
   {
     "RequestId": 3,
     "DateAdded": "2025-02-15T00:00:00",
     "EquipmentType": 1,
-    "Brand": 0,
     "Model": "12",
     "ProblemDescription": "123",
     "ClientName": "2",
@@ -34,13 +31,22 @@
   },
   {
     "RequestId": 4,
-    "DateAdded": "2025-02-15T11:06:17.0340361+07:00",
-    "EquipmentType": 2,
-    "Brand": 0,
-    "Model": "2",
-    "ProblemDescription": "2",
+    "DateAdded": "2025-02-15T11:20:38.3669154+07:00",
+    "EquipmentType": 0,
+    "Model": "2www",
+    "ProblemDescription": "2ww",
     "ClientName": "2",
-    "PhoneNumber": "2",
-    "Status": 0
+    "PhoneNumber": "2ww",
+    "Status": 2
+  },
+  {
+    "RequestId": 5,
+    "DateAdded": "2025-02-15T11:22:38.575021+07:00",
+    "EquipmentType": 3,
+    "Model": "4dd",
+    "ProblemDescription": "",
+    "ClientName": "4",
+    "PhoneNumber": "4ddd",
+    "Status": 2
   }
 ]
